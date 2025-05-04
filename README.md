@@ -1,2 +1,1 @@
-## `Churn-Detection-API`
-> This project is for detecting customer churn ...
+## `Object-Detection-for-Autonomous-Vehicles`
