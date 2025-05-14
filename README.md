@@ -1,3 +1,4 @@
+
 # Vehicle Detection for Autonomous Vehicles
 
 A computer vision application that detects vehicles in video footage using YOLOv8, optimized for autonomous vehicle scenarios.
@@ -109,3 +110,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [KITTI dataset](http://www.cvlibs.net/datasets/kitti/) for providing training data  
 - [Ultralytics](https://github.com/ultralytics) for the YOLOv8 implementation  
 - [Streamlit](https://streamlit.io/) for the web interface framework  
+=======
+## `Object-Detection-for-Autonomous-Vehicles`
+>>>>>>> 18cac72349946b157bccbc0729a3848559a9d4c3
