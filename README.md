@@ -111,5 +111,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Ultralytics](https://github.com/ultralytics) for the YOLOv8 implementation  
 - [Streamlit](https://streamlit.io/) for the web interface framework  
 =======
-## `Object-Detection-for-Autonomous-Vehicles`
->>>>>>> 18cac72349946b157bccbc0729a3848559a9d4c3
+## 👤 Author
+
+### MennaTullah Yasser  
+📧 mennatullahyasser00@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mennatullahyasser12/)
+
+### Elham Hamed  
+🔗 [LinkedIn](https://www.linkedin.com/in/elham-hamed/)
+
+### Mohamed Hisham
+  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hisham-380a86240/)
